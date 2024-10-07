@@ -77,8 +77,6 @@
 
 <img align="left" height="84" width="84" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/Moving-Charzard-unscreen.gif">
 
-<img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/041c3517-3670-4f3d-999d-de44075022ff.gif">
-
 <img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/05343451-bfd9-4078-b92e-3f3a1c4f69f4.gif">
 
 <img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/giphy-gif-500-500--unscreen.gif">
@@ -94,8 +92,6 @@
 <img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/05a989e3-2e12-4e69-97ee-5c64e39b52c9.gif">
 
 <img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/0e6ddfcb-d471-4f15-8acc-76f7ace45c6f.gif">
-
-<img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/Pokemon-Pokemon-Black-And-Whit-unscreen.gif">
 
 <img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/dfa304f4-8059-476f-adab-76e91c039c0b.gif">
 
