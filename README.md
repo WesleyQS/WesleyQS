@@ -61,3 +61,13 @@
 
 
 </div>
+
+<br>
+<br>
+<br> 
+
+<p align="centre"><b>Visitors Count</b></p> 
+  
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FWesleyQS&s=40&c=640fcc&bg=00000000&no=4&ff=alien&tb=Visits%3A++&ta=" alt="visits"/></p> 
+<br>
+</div>
