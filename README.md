@@ -83,7 +83,9 @@
 
 <img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/2bullets852%20on%20Planet%20Minecraft.gif">
 
-<img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/2bullets852%20on%20Planet%20Minecraft.gif">
+<img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/37c8991a-6d6b-4c63-bba1-fa3f81fcb9e0.gif">
+
+<img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/37c8991a-6d6b-4c63-bba1-fa3f81fcb9e0.gif">
 
 
 <br>
