@@ -87,6 +87,10 @@
 
 <img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/excited%20fun%20Sticker%20by%20Godzilla_%20King%20of%20the%20Monsters%20-%20Find%20%26%20Share%20on%20GIPHY.gif">
 
+<img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/tumblr_moyug9i2Rm1r3zwi7o1_500_gif%20(500%C3%97471).gif">
+
+<img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/tumblr_moyug9i2Rm1r3zwi7o1_500_gif%20(500%C3%97471).gif">
+
 
 <br>
 <br>
