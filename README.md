@@ -99,7 +99,7 @@
 
 <img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/dfa304f4-8059-476f-adab-76e91c039c0b.gif">
 
-<img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/dfa304f4-8059-476f-adab-76e91c039c0b.gif">
+<img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/giphy-gif-500-500--unscreen.gif">
 
 
 <br>
