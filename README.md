@@ -93,7 +93,9 @@
 
 <img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/05a989e3-2e12-4e69-97ee-5c64e39b52c9.gif">
 
-<img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/05a989e3-2e12-4e69-97ee-5c64e39b52c9.gif">
+<img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/0e6ddfcb-d471-4f15-8acc-76f7ace45c6f.gif">
+
+<img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/0e6ddfcb-d471-4f15-8acc-76f7ace45c6f.gif">
 
 
 <br>
