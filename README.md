@@ -16,6 +16,6 @@
   </a>
 
   <a href="https://www.instagram.com/wesleyq_s/profilecard/?igsh=MTJwNG1taHhybjRwdA==" target="_blank">
-    <img align="center" height="80" width="80" src="https://github.com/user-attachments/assets/b208df09-b6c3-4485-b617-cc9cf47c27d0">
+    <img align="center" height="80" width="80" src="https://github.com/user-attachments/assets/b83d01a2-53e7-4eeb-bf5e-ef69727833fa">
   </a>
 </div>
