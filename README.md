@@ -81,6 +81,10 @@
 
 <img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/05343451-bfd9-4078-b92e-3f3a1c4f69f4.gif">
 
+<img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/2bullets852%20on%20Planet%20Minecraft.gif">
+
+<img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/2bullets852%20on%20Planet%20Minecraft.gif">
+
 
 <br>
 <br>
