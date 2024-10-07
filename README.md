@@ -79,7 +79,7 @@
 
 <img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/041c3517-3670-4f3d-999d-de44075022ff.gif">
 
-<img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/041c3517-3670-4f3d-999d-de44075022ff.gif">
+<img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/05343451-bfd9-4078-b92e-3f3a1c4f69f4.gif">
 
 
 <br>
