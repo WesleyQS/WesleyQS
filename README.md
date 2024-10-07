@@ -91,6 +91,10 @@
 
 <img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/%E2%80%A6.gif">
 
+<img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/05a989e3-2e12-4e69-97ee-5c64e39b52c9.gif">
+
+<img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/05a989e3-2e12-4e69-97ee-5c64e39b52c9.gif">
+
 
 <br>
 <br>
