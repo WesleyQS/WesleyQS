@@ -89,7 +89,7 @@
 
 <img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/tumblr_moyug9i2Rm1r3zwi7o1_500_gif%20(500%C3%97471).gif">
 
-<img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/tumblr_moyug9i2Rm1r3zwi7o1_500_gif%20(500%C3%97471).gif">
+<img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/%E2%80%A6.gif">
 
 
 <br>
