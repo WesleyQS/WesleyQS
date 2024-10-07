@@ -75,7 +75,7 @@
 <br>
 </div>
 
-<img align="left" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/670ce35c-0b3c-4bec-ba1e-797c40ebcfc6">
+<img align="left" height="84" width="84" src="https://pin.it/37dgEbDoY">
 
 
 
