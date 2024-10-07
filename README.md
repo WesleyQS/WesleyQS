@@ -11,5 +11,11 @@
 </div>
 
 <div align="center">
+  <a href="www.linkedin.com/in/wesley-queiroz-silva-2471a5302" target="_blank">
+    <img align="center" height="80" width="80" src="https://github.com/user-attachments/assets/b208df09-b6c3-4485-b617-cc9cf47c27d0">
+  </a>
 
+  <a href="https://www.instagram.com/wesleyq_s/profilecard/?igsh=MTJwNG1taHhybjRwdA==" target="_blank">
+    <img align="center" height="80" width="80" src="https://github.com/user-attachments/assets/b208df09-b6c3-4485-b617-cc9cf47c27d0">
+  </a>
 </div>
