@@ -81,7 +81,7 @@
 
 <img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/05343451-bfd9-4078-b92e-3f3a1c4f69f4.gif">
 
-<img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/2bullets852%20on%20Planet%20Minecraft.gif">
+<img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/giphy-gif-500-500--unscreen.gif">
 
 <img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/37c8991a-6d6b-4c63-bba1-fa3f81fcb9e0.gif">
 
@@ -98,8 +98,6 @@
 <img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/Pokemon-Pokemon-Black-And-Whit-unscreen.gif">
 
 <img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/dfa304f4-8059-476f-adab-76e91c039c0b.gif">
-
-<img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/giphy-gif-500-500--unscreen.gif">
 
 
 <br>
