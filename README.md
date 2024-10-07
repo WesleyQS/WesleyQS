@@ -77,6 +77,9 @@
 
 <img align="left" height="84" width="84" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/Moving-Charzard-unscreen.gif">
 
+<img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/041c3517-3670-4f3d-999d-de44075022ff.gif">
+
+<img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/041c3517-3670-4f3d-999d-de44075022ff.gif">
 
 
 <br>
