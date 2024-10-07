@@ -2,4 +2,4 @@
 <br>
 <br>
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=50&pause=1000&color=8C1FF7&width=435&lines=Ol%C3%A1%2C+sou+o+Wesley+Queiroz;Tenho+24+anos;Amante+de+Tecnologia;Ent%C3%A3o+estou+sempre+estudando+programa%C3%A7%C3%A3o;E+programando+%3A)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kanit&weight=800&size=35&duration=3000&pause=1000&color=8C1FF7&background=14BFFF00&multiline=true&width=435&lines=Hello%2C+I'm+Wesley+Queiroz;I'm+24+years+old;Technology+lover%2C+so+I'm+always+studying+programming;And+programming+%3A)" alt="Typing SVG" /></a>
