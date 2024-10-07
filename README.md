@@ -95,7 +95,10 @@
 
 <img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/0e6ddfcb-d471-4f15-8acc-76f7ace45c6f.gif">
 
-<img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/0e6ddfcb-d471-4f15-8acc-76f7ace45c6f.gif">
+<img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/Pokemon-Pokemon-Black-And-Whit-unscreen.gif">
+
+<img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/Pokemon-Pokemon-Black-And-Whit-unscreen.gif">
+
 
 
 <br>
