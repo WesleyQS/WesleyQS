@@ -75,7 +75,7 @@
 <br>
 </div>
 
-<img align="left" height="84" width="84" src="https://pin.it/37dgEbDoY">
+<img align="left" height="84" width="84" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/Moving-Charzard-unscreen.gif">
 
 
 
