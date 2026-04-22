@@ -1,4 +1,4 @@
-![Header](/github-header-banner.png)
+<img width=100% bottom=50px src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/github-header-banner.png">
 <br>
 <br>
 <br>
