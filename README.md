@@ -13,8 +13,6 @@
 <br> 
 <br>
 
-<img align="right" alt="" src="./assets/gif-cat-lofi.gif" height="400">
-
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=WesleyQS&theme=shadow-purple&hide_border=true&border_radius=4" alt="GitHub Streak" /></a>
 </div>
@@ -88,4 +86,12 @@
 <br>
 <br>
 
+<img align="center" alt="" src="./assets/lofi.gif" height="600">
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/84a88d7d-a32d-484b-a51e-4b8a723f29ec"/>
