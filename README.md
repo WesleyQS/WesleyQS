@@ -17,6 +17,10 @@
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=WesleyQS&theme=shadow-purple&hide_border=true&border_radius=4" alt="GitHub Streak" /></a>
 </div>
 
+<br>
+<br> 
+<br>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/wesley-queiroz-2471a5302/" target="_blank">
     <img align="center" height="80" width="80" src="https://github.com/user-attachments/assets/b208df09-b6c3-4485-b617-cc9cf47c27d0">
