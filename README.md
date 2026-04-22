@@ -20,7 +20,7 @@
 <br>
 
 #
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="right" alt="" height="190px" src="./PinDown.io_@marmolejos75_1776893798.mp4">
 
 ### Main skills:
 
