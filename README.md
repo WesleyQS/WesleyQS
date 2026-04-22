@@ -6,6 +6,15 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=2000&pause=500&color=5B11F7&background=13FB2800&width=435&lines=Hi%2C+I'm+Wesley;I'm+a+Technology+student+at+UNIP;I+love+everything+about+technology%2C+;from+hardware+and+communication;to+games%2C+and+i+love+Pok%C3%A9mon!" alt="Typing SVG" /></a>
 </div>   
 
+<br>
+<br> 
+<br>
+<br>
+<br> 
+<br>
+
+<img align="right" alt="" src="./assets/gif-cat-lofi.gif" height="400">
+
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=WesleyQS&theme=shadow-purple&hide_border=true&border_radius=4" alt="GitHub Streak" /></a>
 </div>
@@ -19,24 +28,21 @@
 <br> 
 <br>
 
-#
-<img align="right" alt="" height="190px" src="./gif-cat-lofi.gif">
-
 ### Main skills:
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
   
-<img  src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/670ce35c-0b3c-4bec-ba1e-797c40ebcfc6" height="40">
+<img  src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/670ce35c-0b3c-4bec-ba1e-797c40ebcfc6" height="60">
 
-<img  src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6" height="40">
+<img  src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6" height="60">
 
-<img  src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd" height="40">
+<img  src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd" height="60">
 
-<img  src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc" height="40">
+<img  src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc" height="60">
 
 </div>
 
-#
+
 
 <br>
 <br> 
