@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/94490faa-7199-40cb-8a33-bb735f9d3df3"/>
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 <br>
 <br>
 <br>
@@ -11,14 +11,9 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/wesley-queiroz-silva-2471a5302/" target="_blank">
+  <a href="[https://www.linkedin.com/in/wesley-queiroz-silva-2471a5302/](https://www.linkedin.com/in/wesley-queiroz-2471a5302/)" target="_blank">
     <img align="center" height="80" width="80" src="https://github.com/user-attachments/assets/b208df09-b6c3-4485-b617-cc9cf47c27d0">
   </a>
-
-  <a href="https://www.instagram.com/wesleyq_s/profilecard/?igsh=MTJwNG1taHhybjRwdA==" target="_blank">
-    <img align="center" height="80" width="80" src="https://github.com/user-attachments/assets/b83d01a2-53e7-4eeb-bf5e-ef69727833fa">
-  </a>
-</div>
 
 <br>
 <br> 
@@ -62,18 +57,11 @@
 
 </div>
 
-<div align="center">
-  
+<br>
+<br> 
 <br>
 <br>
 <br>
-<br>
-
-<p align="centre"><b>Visitors Count</b></p> 
-  
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FWesleyQS&s=40&c=640fcc&bg=00000000&no=4&ff=alien&tb=Visits%3A++&ta=" alt="visits"/></p> 
-<br>
-</div>
 
 <img align="left" height="84" width="84" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/Moving-Charzard-unscreen.gif">
 
