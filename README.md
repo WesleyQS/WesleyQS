@@ -1,8 +1,4 @@
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wesleyqs/wesleyqs/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wesleyqs/wesleyqs/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wesleyqs/wesleyqs/output/github-contribution-grid-snake.svg">
-</picture>
+
 <br>
 <br>
 <br>
@@ -87,6 +83,15 @@
 
 <img align="left" height="80" width="80" src="https://github.com/WesleyQS/WesleyQS/blob/main/assets/dfa304f4-8059-476f-adab-76e91c039c0b.gif">
 
+<br>
+<br>
+<br>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wesleyqs/wesleyqs/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wesleyqs/wesleyqs/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wesleyqs/wesleyqs/output/github-contribution-grid-snake.svg">
+</picture>
 
 <br>
 <br>
